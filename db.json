@@ -1,0 +1,80 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "imageUrl": "https://via.placeholder.com/200",
+      "name": "Product 1",
+      "count": 7,
+      "size": {
+        "width": 250,
+        "height": 150
+      },
+      "weight": "300g",
+      "comments": [
+        {
+          "id": 132,
+          "productId": 1,
+          "description": "Great product!",
+          "date": "12:00 21.12.2023"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "imageUrl": "https://via.placeholder.com/200",
+      "name": "Product 2",
+      "count": 7,
+      "size": {
+        "width": 250,
+        "height": 150
+      },
+      "weight": "300g",
+      "comments": [
+        {
+          "id": 132,
+          "productId": 1,
+          "description": "Great product!",
+          "date": "12:00 21.12.2023"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "imageUrl": "https://via.placeholder.com/200",
+      "name": "Product 3",
+      "count": 7,
+      "size": {
+        "width": 250,
+        "height": 150
+      },
+      "weight": "400g",
+      "comments": [
+        {
+          "id": 132,
+          "productId": 1,
+          "description": "Great product!",
+          "date": "12:00 21.12.2023"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "imageUrl": "https://via.placeholder.com/200",
+      "name": "Product 4",
+      "count": 7,
+      "size": {
+        "width": 250,
+        "height": 150
+      },
+      "weight": "300g",
+      "comments": [
+        {
+          "id": 12,
+          "productId": 1,
+          "description": "Great product!",
+          "date": "12:00 21.12.2023"
+        }
+      ]
+    }
+  ]
+}
